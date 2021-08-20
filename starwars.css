@@ -18,13 +18,13 @@ align-items: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: lightblue;
+  background-color: lightyellow;
   color: black;
   font-size: 25px;
   }
-  
+
 .movieButton {
-  background-color: lightblue;
+  background-color: lightyellow;
   color: black;
   font-size: 25px;
 }
