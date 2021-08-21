@@ -15,7 +15,7 @@ Eventually, I would like to display all data from API, separating it by characth
 I learned about fetching data from an API. Links, and buttons.
 ​
 ## Installation Instructions:
-This site is live at: https://starwarscode.netlify.app/starwars.html
+This site is live at: https://starwarscode.netlify.app/starwars.html  
 ​
 You can also use this site locally by doing the following: git clone https://github.com/jesspeters143/CodeAPI.git 
 then opening the starwars.html file in your browser
