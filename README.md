@@ -1,5 +1,6 @@
 Star Wars API
-Insert loom video or screenshot of project
+<img width="896" alt="Screen Shot 2021-08-20 at 6 12 04 PM" src="https://user-images.githubusercontent.com/83046012/130305873-3959768f-fa2f-4904-8aea-999d972a54ad.png">
+
 
 Description of project: This project is a basic webpage displaying items from the Star Wars API (https://swapi.dev/).
 ​
